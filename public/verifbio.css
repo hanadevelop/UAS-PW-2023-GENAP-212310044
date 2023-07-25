@@ -1,0 +1,60 @@
+*
+
+{
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+/* history */
+.verif{
+    font-family: 'Poppins';
+    width: 100%;
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    /* background-image: url(Assets/paintbrush.jpg);
+    background-size: 200px 200px 200px 200px; */
+    margin-top: 20px;
+    
+  }
+  
+  .row-verif{
+    width: 80%;
+    max-width: 1170px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 50px 30px;
+  }
+  
+  .row-verif .right{
+    overflow: hidden;
+  }
+  
+  .row-verif .right img{
+    width: 80%;
+    height: 90%;
+    object-fit: cover;
+    border-radius: 20px;
+    margin-left: 100px;
+  }
+  
+  .row-verif .left{
+    display: flex;
+    align-items: center;
+  }
+  
+  .row-verif .left .content{
+    padding-left: 20px;
+  }
+  
+
+  
+
+  
+
+
+
+
+
+
+
